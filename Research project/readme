@@ -1,0 +1,8 @@
+In this research project, I have 
+•	To train classification model using algorithm of random forest & XGBoost
+•	To fine tune the hyperparameter of the model to optimize the prediction performance of model
+•	To evaluate the prediction performance of Conorary Heart Diesease model 
+
+Dataset: Framingham Heart Disease
+
+Cross-Validated XGBoost (70.5%)  has the best prediction performance to predict whether a patient has 10 years risk of CHD, followed by LR (68.6%), Cross-Validated Random Forest (68.6%), XGBoost (67.8%), SVM (67.3%), Random Forest (61.9%), Decision Tree (56.8%) and KNN (54.7%).
