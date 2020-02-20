@@ -1,7 +1,7 @@
 In this research project, I have 
 •	To train classification model using algorithm of random forest & XGBoost
 •	To fine tune the hyperparameter of the model to optimize the prediction performance of model
-•	To evaluate the prediction performance of Conorary Heart Diesease model 
+•	To evaluate the prediction performance of Conorary Heart Disease model 
 
 Dataset: Framingham Heart Disease (kaggle)
 
