@@ -11,7 +11,7 @@ Income Group Classification- Classification in R with PowerBi Visualization
 
 
 
-Research Project- Prediction of 10 years risk of coronary heart disease in Python
+Research Project- Classification and Prediction of 10 years risk of coronary heart disease in Python
 
 
 
